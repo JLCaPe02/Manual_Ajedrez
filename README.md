@@ -1,5 +1,7 @@
 # Manual de Ajedrez
 
+> **📖 [VER MANUAL EN LÍNEA](https://jlcape02.github.io/Manual_Ajedrez/)** ← Haz clic aquí para acceder al manual interactivo
+
 ## Descripción
 
 Este proyecto es un manual interactivo de ajedrez desarrollado con MkDocs y Material for MkDocs. Está diseñado como una guía completa para principiantes y jugadores intermedios que desean aprender o mejorar sus habilidades en el ajedrez.
