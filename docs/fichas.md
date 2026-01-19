@@ -11,7 +11,7 @@ El ajedrez cuenta con 6 tipos de piezas distintas. Entender cómo se mueve cada 
 
 Haz clic en cada pieza para descubrir sus secretos:
 
-??? info "El Peón - La Infantería del Tablero"
+??? info "♟️ El Peón - La Infantería del Tablero"
 
     ### Características Básicas
     Es la unidad básica y la más numerosa (8 por jugador).
@@ -38,7 +38,7 @@ Haz clic en cada pieza para descubrir sus secretos:
     !!! warning "¡Nunca subestimes al peón!"
         Los peones son la **única pieza que puede promocionar** (convertirse en Dama, Torre, Alfil o Caballo) al llegar al otro lado del tablero. Un peón pasado en la séptima fila puede valer más que una pieza menor.
 
-??? info "La Torre - El Cañón Lineal"
+??? info "♜ La Torre - El Cañón Lineal"
 
     ### Características Básicas
     Pieza sólida y lineal. Comienzas con 2 torres en las esquinas.
@@ -61,7 +61,7 @@ Haz clic en cada pieza para descubrir sus secretos:
     
     Una torre vale aproximadamente **5 puntos** (equivalente a un alfil + dos peones, o un caballo + dos peones).
 
-??? info "El Caballo - El Saltador Mágico"
+??? info "♞ El Caballo - El Saltador Mágico"
 
     ### Características Básicas
     La pieza más tramposa y única. Comienzas con 2 caballos.
@@ -83,7 +83,7 @@ Haz clic en cada pieza para descubrir sus secretos:
     
     Un caballo vale aproximadamente **3 puntos**, similar al alfil, aunque su valor aumenta en posiciones cerradas (con muchos peones bloqueados).
 
-??? info "El Alfil - El Señor de las Diagonales"
+??? info "♝ El Alfil - El Señor de las Diagonales"
 
     ### Características Básicas
     El señor de las diagonales. Comienzas con 2 alfiles (uno de casillas blancas y otro de negras).
@@ -105,7 +105,7 @@ Haz clic en cada pieza para descubrir sus secretos:
     
     Un alfil vale aproximadamente **3 puntos**, pero en posiciones abiertas puede valer más que un caballo (3.5 puntos).
 
-??? info "La Dama (Reina) - La Pieza Suprema"
+??? info "♛ La Dama (Reina) - La Pieza Suprema"
 
     ### Características Básicas
     La pieza más poderosa del tablero.
@@ -129,7 +129,7 @@ Haz clic en cada pieza para descubrir sus secretos:
     !!! warning "¡Cuida tu dama!"
         La dama vale aproximadamente **9 puntos**. Perderla sin compensación suele significar perder la partida. Es tu mejor arma de ataque, ¡pero también tu mayor responsabilidad!
 
-??? info "El Rey - El Objetivo Final"
+??? info "♚ El Rey - El Objetivo Final"
 
     ### Características Básicas
     La pieza más importante, pero no la más fuerte.
