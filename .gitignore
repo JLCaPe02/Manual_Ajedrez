@@ -1,4 +1,15 @@
+# MkDocs build output
 site/
+
+# Generated HTML files
+*.html
+
+# Sitemap files
+sitemap.xml
+sitemap.xml.gz
+
+# Test files
+prueba.txt
 *.pyc
 __pycache__/
 .DS_Store
