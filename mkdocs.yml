@@ -1,0 +1,42 @@
+site_name: Manual de Ajedrez
+theme:
+  name: material
+  language: es
+  palette: 
+
+    - scheme: default
+      primary: black  
+      accent: grey    
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - content.tabs.link
+
+plugins:
+  - search
+
+nav:
+  - Inicio: index.md
+  - Reglas Básicas:
+    - 'Movimiento de las Fichas': fichas.md
+  - Origen:
+    - 'Historia del Ajedrez': historia.md
+  - Grandes jugadas:
+    - 'Jugadas Legendarias': famosas.md
+  - ¿Dónde jugar?:
+    - 'Enlaces': enlaces.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
