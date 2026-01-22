@@ -24,7 +24,6 @@ El manual está organizado en las siguientes secciones:
 - Búsqueda integrada en el sitio
 - Elementos interactivos: pestañas, acordeones y cuestionarios
 - Navegación estructurada por secciones
-- Optimizado para lectura en diferentes dispositivos
 
 ## Visualizar el Manual
 
@@ -73,8 +72,5 @@ Manual_Ajedrez_Mkdocs/
 
 ## Autor
 
-Desarrollado por José Luis como proyecto educativo para aprender MkDocs y crear un recurso útil para la comunidad ajedrecística.
+Este proyecto está desarrollado por José Luis.
 
-## Licencia
-
-Este proyecto es de código abierto y está disponible para uso educativo.
